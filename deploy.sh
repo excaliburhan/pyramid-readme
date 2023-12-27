@@ -14,6 +14,6 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:excaliburhan/pyramid-readme.git master:gh-pages
+git push -f git@github.com:excaliburhan/pyramid-readme.git main:gh-pages
 
 cd -
